@@ -4,7 +4,7 @@ the server should be set up to accept the data and store it in a database.
 the function returns a promise that resolves with the response from the server.
 the function can be called like this:
 ```javascript
-submitData('John Doe', 'johndoe@example.com')
+submitData('hellen adhiambo', 'hellenadhis@example.com')
   .then(response => {
     console.log(response);
   })
